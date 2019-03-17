@@ -18,4 +18,9 @@ export const registerSSE = () => {
     evtSource.onopen = event => {
       console.log('connection is opened')
     }
+
+    setTimeout(() => {
+      console.log('client closes the connection');
+      evtSource.close();
+    }, 30000);
 }
