@@ -12,12 +12,18 @@ Demos of different push mechanisms.
 
 ![long polling response](https://i.imgur.com/9v2cCPt.png)
 
+![long polling response data](https://i.imgur.com/Mevcq2j.png)
+
 - SSE
+![sse request request](https://i.imgur.com/xGpSfyW.png)
+
 ![sse request response](https://i.imgur.com/asuVL0y.png)
 
 ![sse event stream](https://i.imgur.com/41bQnlX.png)
 
 - WebSocket
+![webSocket request](https://i.imgur.com/Fk7PktC.png)
+
 ![webSocket http upgrade](https://i.imgur.com/EhHMUmu.png)
 
 ![webSocket frame](https://i.imgur.com/8nQEhJc.png)
