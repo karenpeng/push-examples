@@ -8,7 +8,6 @@ export default class App extends React.Component {
   render() {
     return (
       <div className={styles.app}>
-        <div>This is a SSE example</div>
         <div>Please open your console</div>
       </div>
     );
