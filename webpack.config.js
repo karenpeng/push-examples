@@ -46,5 +46,9 @@ module.exports = {
     rules: [{
       test: /\.node$/,
     }]
+  },
+  node: {
+    net: 'empty',
+    dns: 'empty'
   }
 };

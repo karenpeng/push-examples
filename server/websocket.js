@@ -5,7 +5,6 @@ const handleWebSocket = app => {
         ws.send('9');
       }
     });
-    console.log('socket', req.testing);
   });
 };
 

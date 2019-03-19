@@ -10,6 +10,7 @@
   "dependencies": {
     "babel-cli": "^6.4.0",
     "babel-core": "^6.22.1",
+    "fetch": "^1.1.0",
     "react": "^0.14.3",
     "react-dom": "^0.14.3"
   },
@@ -33,7 +34,7 @@
     "html-webpack-plugin": "^1.6.1",
     "jscs": "^2.1.1",
     "jsdom": "^6.5.1",
-    "json-loader": "^0.5.3",
+    "json-loader": "^0.5.7",
     "mocha": "^2.3.3",
     "mocha-jsdom": "^1.0.0",
     "postcss-loader": "^0.6.0",

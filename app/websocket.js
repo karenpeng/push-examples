@@ -12,6 +12,7 @@ export const registerWebSocket = () => {
         wsConnection.send('A');
       }, 3000);
     }
+    // TODO: add blob
   }
 
   wsConnection.onerror = event => {

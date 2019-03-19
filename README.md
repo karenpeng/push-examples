@@ -8,6 +8,9 @@ Demos of different push mechanisms.
 4. open dev tool, click the network tab
 
 - Long-Polling
+![long polling requests](https://i.imgur.com/oom6Lu6.png)
+
+![long polling response](https://i.imgur.com/9v2cCPt.png)
 
 - SSE
 ![sse request response](https://i.imgur.com/asuVL0y.png)
