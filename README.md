@@ -10,13 +10,13 @@ Demos of different push mechanisms.
 - Long-Polling
 
 - SSE
-![sse request response](https://i.imgur.com/psHuH0k.png)
+![sse request response](https://i.imgur.com/tIIRsW7.png)
 
-![sse event stream](https://i.imgur.com/i5bpTPx.png)
+![sse event stream](https://i.imgur.com/mIObmaz.png)
 
 - WebSocket
-![webSocket http upgrade](https://i.imgur.com/KFq3cVC.png)
+![webSocket http upgrade](https://i.imgur.com/dnS5e8S.png)
 
-![webSocket frame](https://i.imgur.com/b6ruT60.png)
+![webSocket frame](https://i.imgur.com/pnX587P.png)
 
 scaffolded from [webpack-express-boilerplate](https://github.com/christianalfoni/webpack-express-boilerplate)
